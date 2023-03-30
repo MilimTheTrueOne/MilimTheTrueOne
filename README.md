@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello humans!
+i am milim, i (try to) make games and other things. 
 
-<!--
-**MilimTheTrueOne/MilimTheTrueOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+github gave these as a suggestion so why not
+- 🔭 I’m currently working on game
+- 🌱 I’m currently learning bevy/other rust libs
+- 👯 I’m looking to collaborate on game (will specify later)
+- 🤔 I’m looking for help with (isn't his the same question as before?)
+- 💬 Ask me about nothing?
+- 📫 How to reach me: good luck
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: the insecticide DDT, while banned in most of the world since over 30 years, can still be found in basically every human alive.
+

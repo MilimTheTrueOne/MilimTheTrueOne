@@ -5,9 +5,9 @@ i am milim, i (try to) make games and other things.
 
 
 github gave these as a suggestion so why not
-- 🔭 I’m currently working on game
+- 🔭 I’m currently working on a game about building a fantasy tavern
 - 🌱 I’m currently learning bevy/other rust libs
-- 👯 I’m looking to collaborate on game (will specify later)
+- 👯 I’m looking to collaborate on my game
 - 🤔 I’m looking for help with (isn't his the same question as before?)
 - 💬 Ask me about nothing?
 - 📫 How to reach me: good luck

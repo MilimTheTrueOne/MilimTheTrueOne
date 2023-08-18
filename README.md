@@ -5,10 +5,10 @@ i am milim, i (try to) make games and other things.
 
 
 github gave these as a suggestion so why not
-- 🔭 I’m currently working on a game
-- 🌱 I’m currently learning bevy/other rust libs
-- 👯 I’m looking to collaborate on my game
-- 🤔 I’m looking for help with (isn't his the same question as before?)
+- 🔭 I’m currently working on random things i find
+- 🌱 I’m currently learning cs
+- 👯 I’m looking to collaborate on whatever you need help with (it needs to be FOSS tho)
+- 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing?
 - 📫 How to reach me: good luck
 - 😄 Pronouns: she/her
